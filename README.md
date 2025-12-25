@@ -1,6 +1,7 @@
 # Youtube-Data-Engineering-Analytics-Project
 Designed to streamline the processing and analysis of YouTube datasets, this project handles diverse data formats to uncover insights into video categories and trending behavior.
 
+
 Project Objectives:
 
 Automated Data Ingestion: Establish a robust pipeline to aggregate data from disparate external sources.
@@ -14,6 +15,7 @@ System Scalability: Ensure the architecture remains performant and responsive as
 Cloud-Native Processing: Leverage AWS infrastructure to handle large-scale data processing that exceeds local hardware capabilities.
 
 Interactive Reporting: Deploy a centralized dashboard to visualize key metrics and derive data-driven insights.
+
 
 Tech Stack & AWS Services:
 
@@ -29,7 +31,13 @@ AWS Athena: Enables high-speed, interactive SQL querying directly against data s
 
 Apache Superset: An enterprise-grade, open-source data exploration and visualization platform used to build the project's analytical dashboards.
 
-Utilized Dataset
+
+Utilized Dataset:
+
 Statistics (CSV files) on daily popular YouTube videos over several months are included in this Kaggle dataset. Every day, up to 200 popular videos are released for various areas. Each region's data is contained in a separate file. The data includes, among other things, the video title, channel title, publishing time, tags, views, likes and dislikes, description, and number of comments. The JSON file associated with the region also contains a category_id field that varies each area.
 
 https://www.kaggle.com/datasets/datasnaek/youtube-new
+
+Data Architecture:
+
+<img width="1344" height="768" alt="data architecture" src="https://github.com/user-attachments/assets/0c17851e-69bd-4a28-9f50-07333185cddd" />
