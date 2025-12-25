@@ -41,3 +41,7 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 Data Architecture:
 
 <img width="1344" height="768" alt="data architecture" src="https://github.com/user-attachments/assets/0c17851e-69bd-4a28-9f50-07333185cddd" />
+
+
+Dashboard link:
+https://59ff25e3.us2a.app.preset.io/superset/dashboard/9/?native_filters_key=QC5ajFFincREcVdcvla-FGS9Sf5XJPmG2lKUie7dT9m5Rd4jv5Nbhm3EN6jTInag
